@@ -1,0 +1,16 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
+    color: steelblue;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
